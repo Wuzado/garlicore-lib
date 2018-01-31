@@ -1,8 +1,8 @@
 {
-  "name": "litecore-lib",
-  "main": "./litecore-lib.min.js",
+  "name": "garlicore-lib",
+  "main": "./garlicore-lib.min.js",
   "version": "0.13.19",
-  "homepage": "http://litecore.io",
+  "homepage": "http://garlicore.io",
   "authors": [
     "BitPay, Inc."
   ],
@@ -12,7 +12,7 @@
   ],
   "keywords": [
     "litecoin",
-    "litecore",
+    "garlicore",
     "btc",
     "satoshi"
   ],
