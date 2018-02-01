@@ -1,6 +1,6 @@
 {
   "name": "garlicore-lib",
-  "version": "0.13.21",
+  "version": "0.1.0",
   "description": "A pure and powerful JavaScript Litecoin library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "build": "gulp"
   },
   "keywords": [
-    "litecoin",
+    "garlicoin",
     "bitcoin",
     "transaction",
     "address",
