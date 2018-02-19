@@ -63,7 +63,6 @@ garlicore.deps.bnjs = require('bn.js');
 garlicore.deps.bs58 = require('bs58');
 garlicore.deps.Buffer = Buffer;
 garlicore.deps.elliptic = require('elliptic');
-garlicore.deps.scryptsy = require('scryptsy');
 garlicore.deps._ = require('lodash');
 
 // Internal usage, exposed for testing/advanced tweaking
