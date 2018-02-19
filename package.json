@@ -41,7 +41,7 @@
     "elliptic": "=6.4.0",
     "inherits": "=2.0.1",
     "lodash": "=4.17.4",
-    "scryptsy": "=2.0.0"
+    "garlicoinhash": "https://github.com/garlicoin-project/garlicoinhash"
   },
   "devDependencies": {
     "brfs": "^1.2.0",

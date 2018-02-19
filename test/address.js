@@ -386,9 +386,9 @@ describe('Address', function() {
           '0xc8e11b0eb0d2ad5362d894f048908341fa61b6e1 OP_EQUALVERIFY OP_CHECKSIG');
         var buf = s.toBuffer();
         var a = Address.fromScript(s, 'livenet');
-        a.toString().should.equal('LdY75CNRKwNfGgnVwrfzZbsCSVKKTLTvNT');
+        a.toString().should.equal('GcA5E7PYE8ju6MPdhfLoiM9L9SjtPrC4cz');
         var b = new Address(s, 'livenet');
-        b.toString().should.equal('LdY75CNRKwNfGgnVwrfzZbsCSVKKTLTvNT');
+        b.toString().should.equal('GcA5E7PYE8ju6MPdhfLoiM9L9SjtPrC4cz');
       });
 
       it('should make this address from a p2sh input script', function() {
